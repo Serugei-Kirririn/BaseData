@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20869671116",
+    "firebase_url": "https://basedata-b15bd-default-rtdb.firebaseio.com",
+    "project_id": "basedata-b15bd",
+    "storage_bucket": "basedata-b15bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20869671116:android:19478fc381be683567fa69",
+        "android_client_info": {
+          "package_name": "com.example.basedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20869671116-8ieqpaj2cu7vp79cipqf9h8nhnqfkv9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvsYPxvQaGxXAx0zXHjD6SZEjlxJP30Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20869671116-8ieqpaj2cu7vp79cipqf9h8nhnqfkv9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
